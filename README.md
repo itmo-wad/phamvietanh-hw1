@@ -6,4 +6,4 @@ A clean profile page
 * `/profile` - profile page
 * `/static/<file_name>` - access to static files
 
-Github page is available at [dobaohoang-hw1.github.io](https://phvietanh1998.github.io/WAD-homework1/)
+Github page is available at [phamvietanh-hw1.github.io](https://phvietanh1998.github.io/WAD-homework1/)
